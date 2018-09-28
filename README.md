@@ -15,6 +15,6 @@ Steps:
 #To run GUI version
 2.run GUI.py in terminal
 #To run non-GUI version
-2.run FertPredict.py in terminal
+2.run FertPredict.py  in terminal
 
  
