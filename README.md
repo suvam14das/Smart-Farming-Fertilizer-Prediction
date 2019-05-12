@@ -11,7 +11,7 @@ Requirements:</br>
   6.tkinter #to run gui version</br>
 
 Steps:</br>
-  1.git clone repository. 
+  1.git clone repository. <\br>
   2.run GUI.py in terminal. #To run GUI version</br>
   3.run FertPredict.py  in terminal. #To run non-GUI version</br>
 
